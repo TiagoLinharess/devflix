@@ -4,24 +4,25 @@ import Footer from '../Footer';
 import styled from 'styled-components';
 
 const Main = styled.main`
-    background-color: var(--black);
-    color: var(--white);
-    flex: 1;
-    paddin-top: 50px;
-    paddin-left: 5%;
-    paddin-right: 5%;
+  background-color: var(--black);
+  color: var(--white);
+  flex: 1;
+  padding-top: 50px;
+  padding-left: 20%;
+  padding-right: 20%;
 `;
 
-function PageDefault({children}) {
-    return(
-        <>
-            <Menu />
-                <Main>
-                    {children}
-                </Main>
-            <Footer />
-        </>
-    );
+
+function PageDefault({ children }) {
+  return (
+    <>
+      <Menu />
+        <Main>
+          {children}
+        </Main>
+      <Footer />
+    </>
+  );
 }
 
 export default PageDefault;

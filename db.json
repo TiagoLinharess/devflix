@@ -3,43 +3,27 @@
     {
       "id": 1,
       "titulo": "Front End",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      }
+      "cor": "blue"
     },
     {
       "id": 2,
       "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      }
+      "cor": "#00C86F"
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
-      }
+      "titulo": "React",
+      "cor": "#6BD1FF"
     },
     {
       "id": 4,
-      "titulo": "Filmes",
+      "titulo": "Phyton",
       "cor": "orange"
     },
     {
       "id": 5,
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      }
+      "titulo": "Swift",
+      "cor": "red"
     }
   ],
   "videos": [
@@ -116,76 +100,100 @@
       "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
     },
     {
-      "id": 13,
+      "titulo": "Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js",
+      "url": "https://www.youtube.com/watch?v=ZwFA3YMfkoc&feature=youtu.be&fbclid=IwAR3x-urrjoMhSBuVxadL1TNS_xrQWL0eFftUkLTyeodnS2tf01QI1ktfAR0",
       "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "id": 13
     },
     {
-      "id": 14,
+      "titulo": "Twitter Responsivo com ReactJS | UI Clone",
+      "url": "https://www.youtube.com/watch?v=K-8z_4xvT3o&t=8513s",
       "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "id": 14
     },
     {
-      "id": 15,
+      "titulo": "How to Build a NETFLIX Clone with REACT JS for Beginners (in 3 Hours!)",
+      "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&feature=youtu.be",
       "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "id": 15
     },
     {
-      "id": 16,
+      "titulo": "React Native Web, Expo, React.memo, O Universo do React Native | #PR 04",
+      "url": "https://www.youtube.com/watch?v=VsU6p7DHVtA",
       "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "id": 16
     },
     {
-      "id": 17,
+      "titulo": "Como implementar um LOGIN em React.JS Com React Router e Context API em 20 minutos",
+      "url": "https://www.youtube.com/watch?v=FVxdFxxkdDI",
+      "categoriaId": 3,
+      "id": 17
+    },
+    {
+      "titulo": "Next.js Building a Car Trader App #1: Introduction and FAQ Page",
+      "url": "https://www.youtube.com/watch?v=Hy4Por0yfqE&list=PLYSZyzpwBEWTt-0uuxAcSrJmMlnD9Yuz3&index=2&t=0s",
+      "categoriaId": 3,
+      "id": 18
+    },
+    {
+      "titulo": "Aprenda Python em 10 minutos! (Para iniciantes)",
+      "url": "https://www.youtube.com/watch?v=Q8eajxcS6dQ",
       "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "id": 19
     },
     {
-      "id": 18,
+      "titulo": "Curso Python #05 - Instalando o PyCharm e o QPython3",
+      "url": "https://www.youtube.com/watch?v=ElRd0cbXIv4",
       "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "id": 20
     },
     {
-      "id": 19,
+      "titulo": "Descobri uma nova plataforma para aprender Python que é impressionante!",
+      "url": "https://www.youtube.com/watch?v=oIwZp65Nxbk",
       "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "id": 21
     },
     {
-      "id": 20,
+      "titulo": "Por onde começar no Python? Tutorial Passo-a-passo!",
+      "url": "https://www.youtube.com/watch?v=PKykKhbawqo",
       "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "id": 22
     },
     {
-      "id": 21,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "titulo": "Criando um Gerenciador de Senhas com Python",
+      "url": "https://www.youtube.com/watch?v=UV8EBsnU-GQ",
+      "categoriaId": 4,
+      "id": 23
     },
     {
-      "id": 22,
+      "titulo": "Swift (a linguagem do iOS) // Dicionário do Programador",
+      "url": "https://www.youtube.com/watch?v=ELa-PgWlYDI",
       "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      "id": 24
     },
     {
-      "id": 23,
+      "titulo": "Aprenda SWIFT e se torne um desenvolvedor IOS com cursos GRATUITOS 📱",
+      "url": "https://www.youtube.com/watch?v=OV47giYphmk",
       "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "id": 25
     },
     {
-      "id": 24,
+      "titulo": "APRENDENDO SWIFT: O BÁSICO PARA CRIAR SEU PRIMEIRO APP IOS",
+      "url": "https://www.youtube.com/watch?v=Vp0MhXj7TUo",
       "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "id": 26
+    },
+    {
+      "titulo": "SWIFT 5: CURSO DE SWIFT 2020 - VARIÁVEIS #1 | [SEU PRIMEIRO APP iOS]",
+      "url": "https://www.youtube.com/watch?v=MnL3-a3eKNQ",
+      "categoriaId": 5,
+      "id": 27
+    },
+    {
+      "titulo": "Swift - Desenvolvendo um app iOS do começo ao fim",
+      "url": "https://www.youtube.com/watch?v=OYVkZv9xR00",
+      "categoriaId": 5,
+      "id": 28
     }
   ]
 }
